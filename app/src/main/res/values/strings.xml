@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">My Application1</string>
+    <string name="already">Already</string>
+    <string name="have_an">have an</string>
+    <string name="account">Account?</string>
+    <string name="new_user_register_now">New user ? Register now</string>
+    <string name="use_other_methods">use other methods</string>
+    <string name="login">Login</string>
+    <string name="already_have_an_account">Already \nhave an \nAccount?</string>
+    <string name="google_icon">Google icon</string>
+    <string name="facebook_icon">facebook icon</string>
+    <string name="background_image">background image</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="button">Register</string>
+    <string name="reg_heading">Here\'s\nyour first\nstep with\nus! </string>
+    <string name="hint_name">Name</string>
+    <string name="hint_phone">Phone</string>
+    <string name="text" translatable="false">Already Registered ? Login here</string>
+</resources>
